@@ -1,0 +1,46 @@
+/* header  */
+.button{
+    background-color: #B68C5A;
+    border:none;
+    color: white;
+}
+/* banner */
+
+
+
+/* main section */
+/* main section first title */
+
+
+.background{
+    background-color: rgb(250, 251, 252);
+}
+
+.color{
+    color: #B68C5A;
+}
+.images{
+    height: 490px;
+}
+@media only screen and (max-width:568px) {
+    
+    
+
+    .first{
+        height:450px ;
+    }
+    .first-sub-title{
+        font-size:calc(1.525rem + 3.3vw) ;
+    }
+}
+@media only screen and (min-width:569px) and (max-width:992px) {
+    
+    .first{
+        height:550px ;
+    }
+    
+}
+@media only screen and (min-width:993px) and (max-width:1550px) {
+    
+    
+}
